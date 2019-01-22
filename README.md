@@ -18,3 +18,21 @@ Port: **4450**
 
 IP addresses:
 - 181.57.221.10
+
+related domains:
+
+- hugoboss01.hugoboss01.store
+- luisvuitton.luisvuitton.tech
+- dsquared21.dsquared21.rocks
+- lacoste587.lacoste587.agency
+- microsofteup.pdns.cz
+- hxxps://lacoste587.lacoste587.agency/
+- hxxp://lacoste587.lacoste587.agency/
+- hxxp://lexusempresa.100chickens.me/
+- hxxp://mojarracompany.pdns.cz/
+- hxxp://camilo6541.pdns.cz/
+- hxxp://balvinnew.100chickens.me/
+- hxxp://mercadolibre.pdns.cz/
+- hxxp://ebayeup.pdns.cz/
+- hxxp://antonio6532.pdns.cz/
+- hxxp://daniel6536.pdns.cz/
