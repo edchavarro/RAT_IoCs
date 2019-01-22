@@ -19,6 +19,10 @@ Port: **4450**
 IP addresses:
 - 181.57.221.10
 
+Paths:
+
+- %APPDATA%\roaming\lymph.exe
+
 related domains:
 
 - hugoboss01.hugoboss01.store
