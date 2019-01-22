@@ -5,7 +5,7 @@ Remote Administration Tools IoC
 * RAT: Remcos
 * Sample: 4375ebcbb7ce9db3ca212ee1af60d85e
 * Encrypted Traffic: Yes
-* RC4 Key: cotact @echavarro eduardo.chavarro@csiete.org
+* RC4 Key: contact @echavarro eduardo.chavarro@csiete.org
 
 domains:
 - automovil1.peugeot10.cc
