@@ -1,7 +1,38 @@
 # RAT_IoCs
 Remote Administration Tools IoC
 
-* Date: January 22 2019
+*Date: January 30 2019*
+* RAT: Remcos
+* Sample: a2a1e9eb1f02b2ee6ce1d5fbbbb09a25
+* Encrypted Traffic: Yes
+* RC4 Key: contact @echavarro eduardo.chavarro@csiete.org
+
+domains:
+- lacoste587.lacoste587.agency
+- dsquared21.dsquared21.rocks
+- hugoboss01.hugoboss01.store
+- luisvuitton.luisvuitton.tech
+- supreme12.supreme12.recipes
+
+Port: **4851**
+
+IP address:
+- 181.57.221.10
+
+
+*Date: January 28 2019*
+* RAT: Remcos
+* Sample: 4b16c3a23b174968a0d283860dafe23d
+* Encrypted Traffic: Yes
+* RC4 Key: contact @echavarro eduardo.chavarro@csiete.org
+
+Port: **4452**
+
+IP address:
+- 181.57.221.10
+
+
+*Date: January 22 2019* 
 * RAT: Remcos
 * Sample: 4375ebcbb7ce9db3ca212ee1af60d85e
 * Encrypted Traffic: Yes
