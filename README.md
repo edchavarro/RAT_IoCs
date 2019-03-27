@@ -1,3 +1,29 @@
+# Emotet
+*Date: March 27 2019*
+* RAT/Botnet: EMOTET
+* Sample: 
+  Downloader: ec6e56b39ce3634a21383a79e9572d57
+  Bot:        baae3c78200e87bd5ffb17d5d694ec9c
+
+URLs:
+hxxp://asahdesigns.co.uk/ctmg1zz/k_DC/
+hxxp://torabmedia.com/wp-admin/5E_NE/
+hxxp://onlylaw.ru/cgi-bin/t_UO/
+hxxp://biztechmgt.com/mailer/9Y_Mq/
+hxxp://test.stratusconsultants.com/cgi-bin/9o_E/
+
+* Sample: 
+  Downloader: 235abe421ad21fa5f7ea6854be38dea4
+  Bot:        5e6b371bad8591a64113a831394dbe20
+
+URLs:
+http://testdomain.asthingsare.com/css/G06/
+http://octoplustech.com/wp/CvAy/
+http://sonnhietdoi.com/citt/4XD1Oh/
+http://raitutorials.com/xiy19vm/Q45o/
+http://omegawiki.dynalias.com/web_images/eaDir/EjFal/
+
+
 # RAT_IoCs
 Remote Administration Tools IoC
 
