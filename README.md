@@ -17,11 +17,11 @@ hxxp://test.stratusconsultants.com/cgi-bin/9o_E/
   Bot:        5e6b371bad8591a64113a831394dbe20
 
 URLs:
-http://testdomain.asthingsare.com/css/G06/
-http://octoplustech.com/wp/CvAy/
-http://sonnhietdoi.com/citt/4XD1Oh/
-http://raitutorials.com/xiy19vm/Q45o/
-http://omegawiki.dynalias.com/web_images/eaDir/EjFal/
+hxxp://testdomain.asthingsare.com/css/G06/
+hxxp://octoplustech.com/wp/CvAy/
+hxxp://sonnhietdoi.com/citt/4XD1Oh/
+hxxp://raitutorials.com/xiy19vm/Q45o/
+hxxp://omegawiki.dynalias.com/web_images/eaDir/EjFal/
 
 
 # RAT_IoCs
