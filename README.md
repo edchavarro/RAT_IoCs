@@ -2,26 +2,26 @@
 *Date: March 27 2019*
 * RAT/Botnet: EMOTET
 * Sample: 
-  Downloader: ec6e56b39ce3634a21383a79e9572d57
-  Bot:        baae3c78200e87bd5ffb17d5d694ec9c
+  - Downloader: ec6e56b39ce3634a21383a79e9572d57
+  - Bot:        baae3c78200e87bd5ffb17d5d694ec9c
 
 URLs:
-hxxp://asahdesigns.co.uk/ctmg1zz/k_DC/
-hxxp://torabmedia.com/wp-admin/5E_NE/
-hxxp://onlylaw.ru/cgi-bin/t_UO/
-hxxp://biztechmgt.com/mailer/9Y_Mq/
-hxxp://test.stratusconsultants.com/cgi-bin/9o_E/
+- hxxp://asahdesigns.co.uk/ctmg1zz/k_DC/
+- hxxp://torabmedia.com/wp-admin/5E_NE/
+- hxxp://onlylaw.ru/cgi-bin/t_UO/
+- hxxp://biztechmgt.com/mailer/9Y_Mq/
+- hxxp://test.stratusconsultants.com/cgi-bin/9o_E/
 
 * Sample: 
-  Downloader: 235abe421ad21fa5f7ea6854be38dea4
-  Bot:        5e6b371bad8591a64113a831394dbe20
+  - Downloader: 235abe421ad21fa5f7ea6854be38dea4
+  - Bot:        5e6b371bad8591a64113a831394dbe20
 
 URLs:
-hxxp://testdomain.asthingsare.com/css/G06/
-hxxp://octoplustech.com/wp/CvAy/
-hxxp://sonnhietdoi.com/citt/4XD1Oh/
-hxxp://raitutorials.com/xiy19vm/Q45o/
-hxxp://omegawiki.dynalias.com/web_images/eaDir/EjFal/
+- hxxp://testdomain.asthingsare.com/css/G06/
+- hxxp://octoplustech.com/wp/CvAy/
+- hxxp://sonnhietdoi.com/citt/4XD1Oh/
+- hxxp://raitutorials.com/xiy19vm/Q45o/
+- hxxp://omegawiki.dynalias.com/web_images/eaDir/EjFal/
 
 
 # RAT_IoCs
