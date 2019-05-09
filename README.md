@@ -1,4 +1,15 @@
 # Emotet
+
+*Date: May 9 2019*
+* RAT/Botnet: EMOTET
+URLs:
+- hxxp://dromertontus.com/Y7klprmAh
+- hxxp://sen-renov.com/zkDgJJU
+- hxxp://trehoadatoanthan.net/9nz3IWjX
+- hxxp://kadinveyasam.org/FJzoe10vel
+- hxxp://test.flyingsteel.com/MVXd8Eic6
+
+
 *Date: March 27 2019*
 * RAT/Botnet: EMOTET
 * Sample: 
