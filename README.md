@@ -37,6 +37,39 @@ URLs:
 # RAT_IoCs
 Remote Administration Tools IoC
 
+*Date: September 20 2019*
+* RAT: Unknown
+* Sample: 69989e8bae9dbc3445304c5cd700ab58 -> Downloads 547e4a0d44e3fdc5515d031f21448862
+
+domains:
+- 115.duckdns.org
+
+Port: **2000**
+
+URLs:
+- hxxp://115.duckdns.org:2000/Ver
+
+IP address:
+- 46.246.82.66
+
+*Date: September 20 2019*
+* RAT: Remcos
+* Sample: d727f3417c925f3ce89535c8cbb78eff
+* Encrypted Traffic: Yes
+* RC4 Key: contact @echavarro eduardo.chavarro@csiete.org
+
+domains:
+- tennis1.adidas3.tech
+- consolajuego.nintendowii12.email
+- telefonia.claromovil1.work
+- bolso.gucci12.cc
+- celularmovil.huawei10.digital
+
+Port: **4452**
+
+IP address:
+- 181.57.204.130
+
 *Date: January 30 2019*
 * RAT: Remcos
 * Sample: a2a1e9eb1f02b2ee6ce1d5fbbbb09a25
