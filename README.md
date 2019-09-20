@@ -47,7 +47,7 @@ domains:
 Port: **2000**
 
 URLs:
-- hxxp://115.duckdns.org:2000/Ver
+- hxxp://115.duckdns.org:2000/Vre
 
 IP address:
 - 46.246.82.66
